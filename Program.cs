@@ -3,4 +3,4 @@ var app = builder.Build();
 
 app.MapGet("/", () => "Hello World!");
 
-app.Run();sex
+app.Run(); //what is this?
